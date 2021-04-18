@@ -1,0 +1,28 @@
+[
+  {
+    "name":"Walter White",
+    "hobby": "teach chemistry"
+  },
+
+  {
+    "name":"Jesse Pinkman",
+    "hobby": "hang out with friends"
+  },
+
+  {
+    "name":"Hank Schrader",
+    "hobby": "collect rocks"
+  },
+
+  {
+    "name":"Gustavo Fring",
+    "hobby": "manage a restaurant"
+  },
+
+  {
+    "name":"Saul Goodman",
+    "hobby": "be a bad lawyer"
+  }
+
+
+]
