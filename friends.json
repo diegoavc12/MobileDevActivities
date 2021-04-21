@@ -1,27 +1,42 @@
 [
   {
     "name":"Walter White",
-    "hobby": "teach chemistry"
+    "hobby": "teach chemistry",
+    "age":"52",
+    "phone":"3747500781",
+    "address":"308 Negra Arroyo Lane"
   },
 
   {
     "name":"Jesse Pinkman",
-    "hobby": "hang out with friends"
+    "hobby": "hang out with friends",
+    "age":"25",
+    "phone":"6334035481",
+    "address":"9809 Margo Street"
   },
 
   {
     "name":"Hank Schrader",
-    "hobby": "collect rocks"
+    "hobby": "collect rocks",
+    "age":"43",
+    "phone":"7386998565",
+    "address":"4901 Cumbre del Sur Court"
   },
 
   {
     "name":"Gustavo Fring",
-    "hobby": "manage a restaurant"
+    "hobby": "manage a restaurant",
+    "age":"45",
+    "phone":"6814587686",
+    "address": "1213 Jefferson Street"
   },
 
   {
     "name":"Saul Goodman",
-    "hobby": "be a bad lawyer"
+    "hobby": "be a bad lawyer",
+    "age": "49",
+    "phone": "6264463242",
+    "address":"2820 Cutler Avenue"
   }
 
 
